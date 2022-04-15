@@ -7,7 +7,7 @@ I am in love with problem solving using technology.
 I am currently working as a Software Engineer :computer:
 
  <br/> :purple_heart: &nbsp; I can help you develop systems, software and products.
- <br/> :computer: &nbsp; My main stack is: C# with .NET
+ <br/> :computer: &nbsp; My main stack is: C# with .NET and Azure
  <br/> 💬  &nbsp; About me: I love technology, cooking and games.
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-BrunoCamba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunocamba/)](https://www.linkedin.com/in/brunocamba/) 
 | 
